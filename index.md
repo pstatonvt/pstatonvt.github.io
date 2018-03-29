@@ -1,4 +1,4 @@
-# Welcome to Patrick's Personal Page!
+<!-- # Welcome to Patrick's Personal Page! -->
 
 You can view my resume [here](https://drive.google.com/open?id=1xeDjDcWZdl7icBe7vQO8sNOYF5qeo_5g).
 
