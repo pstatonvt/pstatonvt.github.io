@@ -10,12 +10,16 @@ I grew up in Bluefield, Virginia; a small town in southwestern Virginia where th
 <!-- <small> This is an image of fog rolling over the East River Mountains in the town of Bluefield. </small>
 <small> Source: (http://www.grubbphoto.com/Fog.html) </small> -->
 
-After graduating Graham High School in 2010, I attended Virginia Tech, majoring in Meteorology with minors in Astrophysics/Astronomy, Geoscience, and Mathematics. 
+After graduating Graham High School in 2010, I attended Virginia Tech, majoring in Meteorology with minors in Astrophysics/Astronomy, Geoscience, and Mathematics. During my time at Virginia Tech, I was an Astronomy Learning Assistant (LA), where I worked alongside the main Teaching Assistant (TA). My duties ranged from leading recitations to helping grade exams. 
+
+When I wasn't in class or working as an LA, I was giving tours to perspective Hokies and their families. As a Hokie Ambassador, I gave several tours each week, walking backwards and leading people through an amazing campus. 
 
 <img src = "https://vt.edu/content/dam/vt_edu/admissions/images/tour/galleries/burruss/burruss1.jpg.transform/xl-medium/image.jpg">
 <!-- source: https://vt.edu/admissions/undergraduate/visit/phototour.html -->
 
+When I graduated Virginia Tech in May 2014, I set off for graduate school at George Mason University in Fairfax, Virginia. 
 
+<img src = "https://s3-us-west-2.amazonaws.com/asset.plexuss.com/college/overview_images/4115_george-mason-university_01.jpg">
 <!--
 ############ THIS IS ALL PRE-CONSTRUCTED GUIDE TEXT ############
 
