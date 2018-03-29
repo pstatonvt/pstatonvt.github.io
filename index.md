@@ -6,7 +6,7 @@ You can view my resume [here](https://drive.google.com/open?id=1xeDjDcWZdl7icBe7
 
 I grew up in Bluefield, Virginia; a small town in southwestern Virginia where the population is only around 5,400. 
 
-<!-- ```markdown -->
+<!-- ```markdown 
 Syntax highlighted code block
 
 # Header 1
@@ -21,9 +21,11 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](src) 
+``` 
+-->
+
 <img src = "https://i.pinimg.com/originals/58/c1/db/58c1dbb830337cc457f5acc921163a41.jpg" >
-<!-- ``` -->
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
