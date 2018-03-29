@@ -11,7 +11,7 @@ I grew up in Bluefield, Virginia; a small town in southwestern Virginia where th
 <small> Source: (http://www.grubbphoto.com/Fog.html) </small>
 
 
-#add comment here
+<!--
 ############ THIS IS ALL PRE-CONSTRUCTED GUIDE TEXT ############
 
 ```markdown 
@@ -43,6 +43,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ############ THIS IS ALL PRE-CONSTRUCTED GUIDE TEXT ############
-#add comment here
+-->
 
 
