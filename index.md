@@ -2,11 +2,9 @@
 
 You can view my resume [here](https://github.com/pstatonvt/pstatonvt.github.io/blob/master/Patrick_Staton_Resume.pdf).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Bio
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I grew up in Bluefield, Virginia; a small town in southwestern Virginia where the population is only around 5,400. 
 
 ```markdown
 Syntax highlighted code block
