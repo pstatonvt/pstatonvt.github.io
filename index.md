@@ -6,7 +6,7 @@ You can view my resume [here](https://drive.google.com/open?id=1xeDjDcWZdl7icBe7
 
 I grew up in Bluefield, Virginia; a small town in southwestern Virginia where the population is only around 5,400. One fact many people do not know about Bluefield, is that it is the tallest town in the state of Virginia, with an elevation of 2,389 feet. 
 
-<img src = "https://i.pinimg.com/originals/58/c1/db/58c1dbb830337cc457f5acc921163a41.jpg" > <br />
+<img src = "http://www.grubbphoto.com/Images/Fog/Fog%20Print.jpg" > <br />
 <!-- <small> This is an image of fog rolling over the East River Mountains in the town of Bluefield. </small>
 <small> Source: (http://www.grubbphoto.com/Fog.html) </small> -->
 
