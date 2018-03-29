@@ -41,4 +41,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 -->
 
 <img src = "https://i.pinimg.com/originals/58/c1/db/58c1dbb830337cc457f5acc921163a41.jpg" >
-
+<small> This is an image of fog rolling over the East River Mountains in the town of Bluefield. </small>
+<small> source: (http://www.grubbphoto.com/Fog.html) </small>
