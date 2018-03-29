@@ -20,6 +20,7 @@ When I wasn't in class or working as an LA, I was giving tours to perspective Ho
 When I graduated Virginia Tech in May 2014, I set off for graduate school at George Mason University in Fairfax, Virginia. 
 
 <img src = "https://s3-us-west-2.amazonaws.com/asset.plexuss.com/college/overview_images/4115_george-mason-university_01.jpg">
+
 <!--
 ############ THIS IS ALL PRE-CONSTRUCTED GUIDE TEXT ############
 
