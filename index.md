@@ -6,7 +6,10 @@ You can view my resume [here](https://drive.google.com/open?id=1xeDjDcWZdl7icBe7
 
 I grew up in Bluefield, Virginia; a small town in southwestern Virginia where the population is only around 5,400. 
 
-<!-- ```markdown 
+<!--
+############ THIS IS ALL PRE-CONSTRUCTED GUIDE TEXT ############
+
+```markdown 
 Syntax highlighted code block
 
 # Header 1
@@ -22,10 +25,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src) 
-``` 
--->
-
-<img src = "https://i.pinimg.com/originals/58/c1/db/58c1dbb830337cc457f5acc921163a41.jpg" >
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -36,3 +36,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+############ THIS IS ALL PRE-CONSTRUCTED GUIDE TEXT ############
+-->
+
+<img src = "https://i.pinimg.com/originals/58/c1/db/58c1dbb830337cc457f5acc921163a41.jpg" >
+
