@@ -6,6 +6,11 @@ You can view my resume [here](https://drive.google.com/open?id=1xeDjDcWZdl7icBe7
 
 I grew up in Bluefield, Virginia; a small town in southwestern Virginia where the population is only around 5,400. 
 
+<img src = "https://i.pinimg.com/originals/58/c1/db/58c1dbb830337cc457f5acc921163a41.jpg" > <br />
+<sub> This is an image of fog rolling over the East River Mountains in the town of Bluefield. </sub>
+<sub> source: (http://www.grubbphoto.com/Fog.html) </sub>
+
+
 <!--
 ############ THIS IS ALL PRE-CONSTRUCTED GUIDE TEXT ############
 
@@ -40,6 +45,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ############ THIS IS ALL PRE-CONSTRUCTED GUIDE TEXT ############
 -->
 
-<img src = "https://i.pinimg.com/originals/58/c1/db/58c1dbb830337cc457f5acc921163a41.jpg" >
-<small> This is an image of fog rolling over the East River Mountains in the town of Bluefield. </small>
-<small> source: (http://www.grubbphoto.com/Fog.html) </small>
+
