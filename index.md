@@ -1,6 +1,6 @@
 ## Welcome to Patrick's Personal Page!
 
-You can view my resume [here](https://github.com/pstatonvt/pstatonvt.github.io/blob/master/Patrick_Staton_Resume.pdf).
+You can view my resume [here](https://drive.google.com/open?id=1xeDjDcWZdl7icBe7vQO8sNOYF5qeo_5g).
 
 ### Bio
 
@@ -22,6 +22,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+<img src = "https://i.pinimg.com/originals/58/c1/db/58c1dbb830337cc457f5acc921163a41.jpg" >
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
