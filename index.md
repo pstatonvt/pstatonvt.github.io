@@ -7,6 +7,7 @@ You can view my resume [here](https://drive.google.com/open?id=1xeDjDcWZdl7icBe7
 I grew up in Bluefield, Virginia; a small town in southwestern Virginia where the population is only around 5,400. One fact many people do not know about Bluefield, is that it is the tallest town in the state of Virginia, with an elevation of 2,389 feet. 
 
 <img src = "http://www.grubbphoto.com/Images/Fog/Fog%20Print.jpg" > <br />
+>image source: http://www.grubbphoto.com/
 <!-- <small> This is an image of fog rolling over the East River Mountains in the town of Bluefield. </small>
 <small> Source: (http://www.grubbphoto.com/Fog.html) </small> -->
 
@@ -16,10 +17,12 @@ When I wasn't in class or working as an LA, I was giving tours to perspective Ho
 
 <img src = "https://vt.edu/content/dam/vt_edu/admissions/images/tour/galleries/burruss/burruss1.jpg.transform/xl-medium/image.jpg">
 <!-- source: https://vt.edu/admissions/undergraduate/visit/phototour.html -->
+>image source: https://vt.edu/ 
 
 When I graduated Virginia Tech in May 2014, I set off for graduate school for a Master's in Earth Systems Science at George Mason University in Fairfax, Virginia. For my graduate work, I focused in climate science and the education behind it. My thesis project focused on individual's views on climate change, and compared these views to the level of science education (or even more specifically, climate science education) they possessed. 
 
 <img src = "https://s3-us-west-2.amazonaws.com/asset.plexuss.com/college/overview_images/4115_george-mason-university_01.jpg">
+>image source: https://s3-us-west-2.amazonaws.com 
 
 <!--
 ############ THIS IS ALL PRE-CONSTRUCTED GUIDE TEXT ############
