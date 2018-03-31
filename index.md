@@ -1,12 +1,6 @@
 # Welcome to Patrick's Personal Page
 
-<<<<<<< HEAD
-You can view my resume [here](https://github.com/pstatonvt/pstatonvt.github.io/blob/master/Patrick_Staton_Resume.pdf).
-
-#You can use the [editor on GitHub](https://github.com/pstatonvt/pstatonvt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-=======
 You can view my resume [here](https://drive.google.com/open?id=1xeDjDcWZdl7icBe7vQO8sNOYF5qeo_5g).
->>>>>>> 3224e7847bba1a1b426233f331cd13fc2c0c9835
 
 ### Bio
 
@@ -63,5 +57,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ############ THIS IS ALL PRE-CONSTRUCTED GUIDE TEXT ############
 -->
-
 
