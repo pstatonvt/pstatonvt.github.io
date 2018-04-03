@@ -3,7 +3,7 @@
 Markdown cheat sheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 -->
 
-You can view my resume [here](https://docs.google.com/document/d/1-sfgTvgCUbktt-_LDdiSBSCfzMra217m2gktMqMZkT4/edit?usp=sharing).
+You can view my resume [here](pstatonvt.github.io/Patrick_Staton_Resume.pdf).
 
 ### Bio
 
