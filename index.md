@@ -1,4 +1,7 @@
 <!--# Welcome to Patrick's Personal Page -->
+<!--
+Markdown cheat sheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+-->
 
 You can view my resume [here](https://docs.google.com/document/d/1-sfgTvgCUbktt-_LDdiSBSCfzMra217m2gktMqMZkT4/edit?usp=sharing).
 
@@ -19,6 +22,4 @@ When I graduated Virginia Tech in May 2014, I set off for graduate school for a 
 <img src = "https://s3-us-west-2.amazonaws.com/asset.plexuss.com/college/overview_images/4115_george-mason-university_01.jpg">
 
 
-<!--
-Markdown cheat sheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
--->
+
