@@ -2,9 +2,6 @@
 <!--
 Markdown cheat sheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 -->
-<head>
-  <link rel="icon"  type="image/png"    href="https://www.nasa.gov/centers/goddard/images/content/638831main_globe_east_2048.jpg">
-</head>
  
 You can view my resume [here](https://docs.google.com/document/d/1-sfgTvgCUbktt-_LDdiSBSCfzMra217m2gktMqMZkT4/edit?usp=sharing).
 
