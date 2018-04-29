@@ -21,5 +21,8 @@ When I graduated Virginia Tech in May 2014, I set off for graduate school for a 
 
 <img src = "https://s3-us-west-2.amazonaws.com/asset.plexuss.com/college/overview_images/4115_george-mason-university_01.jpg">
 
+In January 2017, I began working at the University of Alabama in Huntsville as a Research Associate. I am on the Data Science and Informatics Group (DSIG) as a metadata analyst and programmer. Our team works closely with NASA and its 12 Distributed Data Archive Centers (DAACS) by curating their metadata records for various satellite and aerial Earth Science missions. 
+
+<img src = "http://www.al.com/news/huntsville/index.ssf/2018/02/third_swastika_found_at_uah_po.html">
 
 
