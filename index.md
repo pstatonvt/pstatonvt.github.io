@@ -25,4 +25,6 @@ In January 2017, I began working at the University of Alabama in Huntsville as a
 
 <img src = "https://static1.squarespace.com/static/5844525520099e10cb781a65/t/58f231aec534a52c82666c95/1492267453255/?format=1500w">
 
+In my spare time, I practice and teach yoga! I discovered yoga in January 2015 during my first year of graduate school, and have been an avid practioner ever since. I teach in both hot and non-hot studios, but I do prefer hot yoga in general; practicing in the heat forces me to focus on the here and now, and doesn't allow me to worry about things outside the yoga room. 
 
+<img src = "https://imgur.com/a/HyfsgW4">
