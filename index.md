@@ -21,7 +21,9 @@ When I graduated Virginia Tech in May 2014, I set off for graduate school for a 
 
 <img src = "https://s3-us-west-2.amazonaws.com/asset.plexuss.com/college/overview_images/4115_george-mason-university_01.jpg">
 
-In January 2017, I began working at the University of Alabama in Huntsville as a Research Associate. I am on the Data Science and Informatics Group (DSIG) as a metadata analyst and programmer. Our team works closely with NASA and its 12 Distributed Data Archive Centers (DAACS) by curating their metadata records for various satellite and aerial Earth Science missions. 
+In January 2017, I began working at the University of Alabama in Huntsville as a Research Associate. I performed metadata quality assessments for the NASA Earth science catalog; Common Metadata Repository (CMR), including generating monthly reports and communicating metadata issues with appropriate data providers.
+
+I also utilized Python programming to perform automated quality checks of NASA Earth science metadata records. Leveraged the Common Metadata Repository’s (CMR) API along with the Global Master Chance Directory (GCMD) controlled value lists to allow for automated checks within metadata records. 
 
 <img src = "https://static1.squarespace.com/static/5844525520099e10cb781a65/t/58f231aec534a52c82666c95/1492267453255/?format=1500w">
 
