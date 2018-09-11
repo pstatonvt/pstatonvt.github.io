@@ -23,9 +23,9 @@ When I graduated Virginia Tech in May 2014, I set off for graduate school for a 
 
 In January 2017, I began working at the University of Alabama in Huntsville as a Research Associate. An example of some of my tasks while in this position are listed below: 
  
- *Performed metadata quality assessments for the NASA Earth science catalog; Common Metadata Repository (CMR), including generating monthly reports and communicating metadata issues with appropriate data providers. 
+ * Performed metadata quality assessments for the NASA Earth science catalog; Common Metadata Repository (CMR), including generating monthly reports and communicating metadata issues with appropriate data providers. 
  
- *Utilized Python programming to perform automated quality checks of NASA Earth science metadata records. Leveraged the Common Metadata Repository’s (CMR) API along with the Global Master Chance Directory (GCMD) controlled value lists to allow for automated checks within metadata records. 
+ * Utilized Python programming to perform automated quality checks of NASA Earth science metadata records. Leveraged the Common Metadata Repository’s (CMR) API along with the Global Master Chance Directory (GCMD) controlled value lists to allow for automated checks within metadata records. 
 
 <img src = "https://static1.squarespace.com/static/5844525520099e10cb781a65/t/58f231aec534a52c82666c95/1492267453255/?format=1500w">
 
