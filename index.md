@@ -25,9 +25,9 @@ In January 2017, I began working at the University of Alabama in Huntsville as a
  
 * Manages all Python scripts being implemented in the NASA Common Metadata Repository (CMR) Analysis and Review Dashboard. These scripts serve as a major deliverable for the Analysis and Review of CMR (ARC) project.
 * Includes a suite of scripts which leverage the CMR’s API, the Global Master Change Directory (GCMD) controlled value lists, and CMR’s metadata schemas to allow for automated checks of metadata records
-** Writes custom script functions to perform additional automated metadata checks on an as-needed basis
-** Identifies ways to enhance script performance
-** Updates scripts when changes are made to metadata schemas and requirements
+* Writes custom script functions to perform additional automated metadata checks on an as-needed basis
+* Identifies ways to enhance script performance
+* Updates scripts when changes are made to metadata schemas and requirements
 * Technical contact for communication regarding scripts between IMPACT and the Earth Observing Systems Data and Information System (EOSDIS) Evolution and Development (EED) team, who is responsible for maintaining the NASA CMR Analysis and Review Dashboard
 * Responsible for writing script documentation on the public facing NASA Earthdata Wiki space to enhance transparency between the programming process and the users of the Dashboard tool
 * Participate in the IMPACT’s effort in writing and publishing a scientific paper about the metadata curation process of the Analysis and Review of CMR (ARC) team
