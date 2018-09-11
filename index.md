@@ -23,9 +23,15 @@ When I graduated Virginia Tech in May 2014, I set off for graduate school for a 
 
 In January 2017, I began working at the University of Alabama in Huntsville as a Research Associate. An example of some of my tasks while in this position are listed below: 
  
- * Performed metadata quality assessments for the NASA Earth science catalog; Common Metadata Repository (CMR), including generating monthly reports and communicating metadata issues with appropriate data providers. 
- 
- * Utilized Python programming to perform automated quality checks of NASA Earth science metadata records. Leveraged the Common Metadata Repository’s (CMR) API along with the Global Master Chance Directory (GCMD) controlled value lists to allow for automated checks within metadata records. 
+* Manages all Python scripts being implemented in the NASA Common Metadata Repository (CMR) Analysis and Review Dashboard. These scripts serve as a major deliverable for the Analysis and Review of CMR (ARC) project.
+* Includes a suite of scripts which leverage the CMR’s API, the Global Master Change Directory (GCMD) controlled value lists, and CMR’s metadata schemas to allow for automated checks of metadata records
+** Writes custom script functions to perform additional automated metadata checks on an as-needed basis
+** Identifies ways to enhance script performance
+** Updates scripts when changes are made to metadata schemas and requirements
+* Technical contact for communication regarding scripts between IMPACT and the Earth Observing Systems Data and Information System (EOSDIS) Evolution and Development (EED) team, who is responsible for maintaining the NASA CMR Analysis and Review Dashboard
+* Responsible for writing script documentation on the public facing NASA Earthdata Wiki space to enhance transparency between the programming process and the users of the Dashboard tool
+* Participate in the IMPACT’s effort in writing and publishing a scientific paper about the metadata curation process of the Analysis and Review of CMR (ARC) team
+* Continue in the metadata curation effort which include responsibilities upon hiring
 
 <img src = "https://static1.squarespace.com/static/5844525520099e10cb781a65/t/58f231aec534a52c82666c95/1492267453255/?format=1500w">
 
