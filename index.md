@@ -17,7 +17,7 @@ When I wasn't in class or working as an LA, I was giving tours to perspective Ho
 
 <img src = "https://vt.edu/content/dam/vt_edu/admissions/images/tour/galleries/burruss/burruss1.jpg.transform/xl-medium/image.jpg">
 
-When I graduated Virginia Tech in May 2014, I set off for graduate school for a Master's in Earth Systems Science at George Mason University in Fairfax, Virginia. For my graduate work, I focused in climate science and the education behind it. My thesis project focused on individual's views on climate change, and compared these views to the level of science education (or even more specifically, climate science education) they possessed.
+When I graduated Virginia Tech in May 2014, I set off for graduate school for a Master's in Earth Systems Science at George Mason University in Fairfax, Virginia. For my graduate work, I focused in climate science and the education behind it. My thesis project focused on individuals' views on climate change, and compared these views to the level of science education (or even more specifically, climate science education) they possessed.
 
 <img src = "https://s3-us-west-2.amazonaws.com/asset.plexuss.com/college/overview_images/4115_george-mason-university_01.jpg">
 
