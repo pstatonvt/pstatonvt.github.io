@@ -23,9 +23,7 @@ When I graduated Virginia Tech in May 2014, I set off for graduate school for a 
 
 In January 2017, I began working at the University of Alabama in Huntsville as a Research Associate. An example of some of my tasks while in this position are listed below: 
 
-* Member on the Multi-Mission Algorithm and Analysis Platform (MAAP) in leveraging JavaScript to generate granules for specific airborne and satellite NASA Earth science missions.
 
-* Implement the Metadata Management Tool (MMT) in order to generate collection level metadata for MAAP's Earthdata Search Client.
 * Manages all Python scripts being implemented in the NASA Common Metadata Repository (CMR) Analysis and Review Dashboard. These scripts serve as a major deliverable for the Analysis and Review of CMR (ARC) project.
 * Includes a suite of scripts which leverage the CMR’s API, the Global Master Change Directory (GCMD) controlled value lists, and CMR’s metadata schemas to allow for automated checks of metadata records
 * Writes custom script functions to perform additional automated metadata checks on an as-needed basis
